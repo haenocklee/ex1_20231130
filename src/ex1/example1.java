@@ -8,6 +8,7 @@ public class example1{
 
 
 		System.out.println("오늘은 목요일 입니다");
+		System.out.println("오늘은 날씨가 춥내요");
 	}
 
 }
